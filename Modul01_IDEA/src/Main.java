@@ -17,7 +17,6 @@ public class Main {
         String uniskaString = new String(uniskaChar);
         System.out.println(uniskaString);
 
-
         String namaLengkap = namaDepan + " " + namaBelakang;
         System.out.println(namaLengkap.length());
         System.out.println(namaLengkap.indexOf("NIS"));
